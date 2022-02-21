@@ -1,8 +1,11 @@
 Aum
 
-# This is a omment
+# This is a Cmment
 
 This is my First ReadMe file created in GitHub.
 Learnt this from Gwen from FreeCodeCamp.
 
-Verry Exited to Learn and master GitHub
+Very Exited to Learn and master GitHub.
+
+Jai Shree RAM
+Aum Shanti
