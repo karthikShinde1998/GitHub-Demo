@@ -7,13 +7,6 @@ Learnt this from Gwenf from FreeCodeCamp.
 
 Very Exited to Learn and master GitHub.
 
-Line 1
-Line 2
-Line 3
-Line 4
-Line 5
-Line 6
-Line 7
-Line 8
-Line 9
-Line 10
+# This has been edited via the Command Line
+Learning GitHub is FUN.
+Will complete the Course in today 21Feb 2022
